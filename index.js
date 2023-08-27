@@ -23,8 +23,8 @@
           console.error("Fetch error:", error);
         });
 /*牛诗琪*/    
-      const startByte1 = 19; // 起始字节位置
-      const endByte1 = 36; // 结束字节位置
+      const startByte1 = 18; // 起始字节位置
+      const endByte1 = 35; // 结束字节位置
 
       fetch("database.txt")
         .then((response) => {
@@ -47,8 +47,8 @@
           console.error("Fetch error:", error);
         });
 /*康炳一*/    
-      const startByte2 = 38; // 起始字节位置
-      const endByte2 = 55; // 结束字节位置
+      const startByte2 = 36; // 起始字节位置
+      const endByte2 = 53; // 结束字节位置
 
       fetch("database.txt")
         .then((response) => {
@@ -71,8 +71,8 @@
           console.error("Fetch error:", error);
         });
 /*赵淇塬*/    
-      const startByte3 = 57; // 起始字节位置
-      const endByte3 = 74; // 结束字节位置
+      const startByte3 = 54; // 起始字节位置
+      const endByte3 = 71; // 结束字节位置
 
       fetch("database.txt")
         .then((response) => {
@@ -95,8 +95,8 @@
           console.error("Fetch error:", error);
         });
 /*郝翼*/    
-      const startByte4 = 76; // 起始字节位置
-      const endByte4 = 93; // 结束字节位置
+      const startByte4 = 72; // 起始字节位置
+      const endByte4 = 89; // 结束字节位置
 
       fetch("database.txt")
         .then((response) => {
@@ -119,8 +119,8 @@
           console.error("Fetch error:", error);
         });
 /*赵语霏*/    
-      const startByte5 = 95; // 起始字节位置
-      const endByte5 = 112; // 结束字节位置
+      const startByte5 = 90; // 起始字节位置
+      const endByte5 = 107; // 结束字节位置
 
       fetch("database.txt")
         .then((response) => {
@@ -143,8 +143,8 @@
           console.error("Fetch error:", error);
         });
 /*杜文博*/    
-      const startByte6 = 114; // 起始字节位置
-      const endByte6 = 131; // 结束字节位置
+      const startByte6 = 108; // 起始字节位置
+      const endByte6 = 125; // 结束字节位置
 
       fetch("database.txt")
         .then((response) => {
@@ -167,8 +167,8 @@
           console.error("Fetch error:", error);
         });
 /*张欣怡*/    
-      const startByte7 = 137; // 起始字节位置
-      const endByte7 = 154; // 结束字节位置
+      const startByte7 = 126; // 起始字节位置
+      const endByte7 = 143; // 结束字节位置
 
       fetch("database.txt")
         .then((response) => {
@@ -191,8 +191,8 @@
           console.error("Fetch error:", error);
         });
 /*赵海青*/    
-      const startByte8 = 156; // 起始字节位置
-      const endByte8 = 173; // 结束字节位置
+      const startByte8 = 144; // 起始字节位置
+      const endByte8 = 161; // 结束字节位置
 
       fetch("database.txt")
         .then((response) => {
@@ -215,8 +215,8 @@
           console.error("Fetch error:", error);
         });
 /*张凯林*/    
-      const startByte9 = 177; // 起始字节位置
-      const endByte9 = 194; // 结束字节位置
+      const startByte9 = 162; // 起始字节位置
+      const endByte9 = 179; // 结束字节位置
 
       fetch("database.txt")
         .then((response) => {
@@ -239,8 +239,8 @@
           console.error("Fetch error:", error);
         });
 /*付业清*/    
-      const startByte10 = 198; // 起始字节位置
-      const endByte10 = 215; // 结束字节位置
+      const startByte10 = 180; // 起始字节位置
+      const endByte10 = 197; // 结束字节位置
 
       fetch("database.txt")
         .then((response) => {
@@ -263,8 +263,8 @@
           console.error("Fetch error:", error);
         });
 /*赵锐龙*/    
-      const startByte11 = 219; // 起始字节位置
-      const endByte11 = 236; // 结束字节位置
+      const startByte11 = 198; // 起始字节位置
+      const endByte11 = 215; // 结束字节位置
 
       fetch("database.txt")
         .then((response) => {
@@ -287,8 +287,8 @@
           console.error("Fetch error:", error);
         });
 /*赵瑛蕊*/    
-      const startByte12 = 238; // 起始字节位置
-      const endByte12 = 255; // 结束字节位置
+      const startByte12 = 216; // 起始字节位置
+      const endByte12 = 233; // 结束字节位置
 
       fetch("database.txt")
         .then((response) => {
@@ -311,8 +311,8 @@
           console.error("Fetch error:", error);
         });
 /*李旭尧*/    
-      const startByte13 = 261; // 起始字节位置
-      const endByte13 = 278; // 结束字节位置
+      const startByte13 = 234; // 起始字节位置
+      const endByte13 = 251; // 结束字节位置
 
       fetch("database.txt")
         .then((response) => {
@@ -335,8 +335,8 @@
           console.error("Fetch error:", error);
         });
 /**/    
-      const startByte000 = 280; // 起始字节位置
-      const endByte000 = 292; // 结束字节位置
+      const startByte000 = 252; // 起始字节位置
+      const endByte000 = 264; // 结束字节位置
 
       fetch("database.txt")
         .then((response) => {
