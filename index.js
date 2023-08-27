@@ -336,7 +336,7 @@
         });
 /**/    
       const startByte000 = 280; // 起始字节位置
-      const endByte000 = 312; // 结束字节位置
+      const endByte000 = 292; // 结束字节位置
 
       fetch("database.txt")
         .then((response) => {
